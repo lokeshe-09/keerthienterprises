@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  IMAGES SITEMAP FOR KEERTHIENTERPRISES.COM
+  Best Insurance Broker in Hyderabad
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Company Logo -->
+  <url>
+    <loc>https://keerthienterprises.com/</loc>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/company%20logo.png</image:loc>
+      <image:title>Keerthi Enterprises Logo - Best Insurance Broker Hyderabad</image:title>
+      <image:caption>Keerthi Enterprises - Trusted Insurance Broker in Hyderabad since 2017. Life, Health &amp; Motor Insurance.</image:caption>
+      <image:geo_location>Hyderabad, Telangana, India</image:geo_location>
+      <image:license>https://keerthienterprises.com/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/favicon.svg</image:loc>
+      <image:title>KE Logo - Keerthi Enterprises Insurance Broker Hyderabad</image:title>
+      <image:caption>KE - Keerthi Enterprises Favicon - Insurance Broker Icon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/og-image.png</image:loc>
+      <image:title>Keerthi Enterprises Social Share Image</image:title>
+      <image:caption>Keerthi Enterprises - Best Insurance Broker in Hyderabad - Open Graph Image</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Life Insurance -->
+  <url>
+    <loc>https://keerthienterprises.com/services#life-insurance</loc>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/life%20insurance.png</image:loc>
+      <image:title>Life Insurance Services Hyderabad - Term Life, ULIP, Endowment Plans</image:title>
+      <image:caption>Best Life Insurance Plans in Hyderabad from LIC, ICICI Prudential, HDFC Life, Max Life - Keerthi Enterprises</image:caption>
+      <image:geo_location>Hyderabad, Telangana, India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- Health Insurance -->
+  <url>
+    <loc>https://keerthienterprises.com/services#health-insurance</loc>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/health%20insurance.png</image:loc>
+      <image:title>Health Insurance Services Hyderabad - Family Floater, Mediclaim, Critical Illness</image:title>
+      <image:caption>Comprehensive Health Insurance Plans in Hyderabad from Star Health, ICICI Lombard, TATA AIG, Care Health - Keerthi Enterprises</image:caption>
+      <image:geo_location>Hyderabad, Telangana, India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- Motor Insurance -->
+  <url>
+    <loc>https://keerthienterprises.com/services#motor-insurance</loc>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/Motor%20insurance.png</image:loc>
+      <image:title>Motor Insurance Services Hyderabad - Car Insurance, Bike Insurance</image:title>
+      <image:caption>Best Car and Bike Insurance in Hyderabad with Zero Depreciation and Cashless Claims - Keerthi Enterprises</image:caption>
+      <image:geo_location>Hyderabad, Telangana, India</image:geo_location>
+    </image:image>
+  </url>
+
+</urlset>

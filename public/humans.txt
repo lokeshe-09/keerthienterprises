@@ -1,0 +1,40 @@
+/* TEAM */
+Company: Keerthi Enterprises
+Website: https://keerthienterprises.com
+Location: Hyderabad, Telangana, India
+Contact: keerthienterpriseshyd1972@gmail.com
+Phone: +91 63098 32224
+
+/* BUSINESS INFO */
+Industry: Insurance Broking Services
+Services: Life Insurance, Health Insurance, Motor Insurance
+Established: 2017
+Team Size: 30+ Members
+Customers: 1000+ Happy Families
+
+/* CREDENTIALS */
+GSTIN: 36AMZPL3954H1ZC
+MSME: UDYAM-TS-02-0029886
+
+/* LOCATIONS */
+Head Office: ECIL, Secunderabad - 500062
+Branch Office: Gajularamaram, Hyderabad - 500055
+
+/* PARTNERS */
+LIC, Star Health, ICICI Prudential, ICICI Lombard
+TATA AIG, Royal Sundaram, Magma, HDFC Life
+Max Life, Bajaj Allianz, Care Health
+
+/* SITE */
+Last Updated: 2026-01-06
+Technology: React 19, Vite 7, Tailwind CSS
+Hosting: Vercel
+Domain: keerthienterprises.com
+
+/* LANGUAGES */
+Primary: English
+Supported: Hindi, Telugu
+
+/* THANKS */
+Thanks to all our 1000+ customers who trust us
+with their insurance needs in Hyderabad!

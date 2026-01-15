@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap-style.xsl"?>
+<!--
+  SITEMAP INDEX FOR KEERTHIENTERPRISES.COM
+  Best Insurance Broker in Hyderabad, Telangana, India
+-->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://keerthienterprises.com/sitemap.xml</loc>
+    <lastmod>2026-01-06</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://keerthienterprises.com/sitemap-pages.xml</loc>
+    <lastmod>2026-01-06</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://keerthienterprises.com/sitemap-images.xml</loc>
+    <lastmod>2026-01-06</lastmod>
+  </sitemap>
+</sitemapindex>

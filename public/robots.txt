@@ -1,0 +1,294 @@
+# =====================================================
+# ROBOTS.TXT FOR KEERTHIENTERPRISES.COM
+# Best Insurance Broker in Hyderabad, Telangana, India
+# Life Insurance | Health Insurance | Motor Insurance
+# Last Updated: January 2026
+# =====================================================
+
+# ==== HOST DIRECTIVE ====
+Host: https://keerthienterprises.com
+
+# ==== SITEMAP LOCATIONS ====
+Sitemap: https://keerthienterprises.com/sitemap.xml
+Sitemap: https://keerthienterprises.com/sitemap-pages.xml
+Sitemap: https://keerthienterprises.com/sitemap-images.xml
+
+# ==== GENERAL RULES FOR ALL CRAWLERS ====
+User-agent: *
+Allow: /
+Allow: /services
+Allow: /about
+Allow: /contact
+Allow: /locations
+Allow: /testimonials
+Allow: /assets/
+Allow: /manifest.json
+Allow: /favicon.svg
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.webp$
+Crawl-delay: 1
+
+# Block unnecessary paths
+Disallow: /node_modules/
+Disallow: /src/
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /.vscode/
+Disallow: /dist/
+Disallow: /build/
+Disallow: /*.map$
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*?*utm_
+Disallow: /*?*ref=
+Disallow: /*?*fbclid
+Disallow: /*?*gclid
+Disallow: /*?*source=
+Disallow: /*?*campaign=
+
+# ==== GOOGLE CRAWLERS ====
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Image
+Allow: /assets/
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.webp$
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+Disallow: /contact
+Disallow: /testimonials
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Storebot-Google
+Allow: /
+
+User-agent: Google-InspectionTool
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+# ==== BING / MICROSOFT ====
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: MSNBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: MSNBot-Media
+Allow: /assets/
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: adidxbot
+Allow: /
+
+# ==== YAHOO ====
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+# ==== DUCKDUCKGO ====
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+# ==== BAIDU (CHINA) ====
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+User-agent: Baiduspider-image
+Allow: /assets/
+
+User-agent: Baiduspider-video
+Allow: /
+
+# ==== YANDEX (RUSSIA) ====
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+User-agent: YandexImages
+Allow: /assets/
+
+User-agent: YandexVideo
+Allow: /
+
+User-agent: YandexMobileBot
+Allow: /
+
+User-agent: YandexAccessibilityBot
+Allow: /
+
+# ==== SOCIAL MEDIA CRAWLERS ====
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Facebot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Pinterest
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+# ==== SEO & ANALYTICS TOOLS ====
+User-agent: AhrefsBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: SemrushBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: MJ12bot
+Allow: /
+Crawl-delay: 5
+
+User-agent: DotBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: BLEXBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: MegaIndex.ru
+Allow: /
+Crawl-delay: 5
+
+User-agent: SeznamBot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Sogou
+Allow: /
+Crawl-delay: 2
+
+User-agent: Exabot
+Allow: /
+Crawl-delay: 2
+
+# ==== FEED & NEWS READERS ====
+User-agent: ia_archiver
+Allow: /
+
+User-agent: archive.org_bot
+Allow: /
+
+User-agent: Feedfetcher-Google
+Allow: /
+
+# ==== RICH SNIPPET / STRUCTURED DATA ====
+User-agent: Google-Structured-Data-Testing-Tool
+Allow: /
+
+User-agent: Chrome-Lighthouse
+Allow: /
+
+# ==== PAGE SPEED / PERFORMANCE ====
+User-agent: GTmetrix
+Allow: /
+
+User-agent: Pingdom
+Allow: /
+
+User-agent: PageSpeed
+Allow: /
+
+# ==== AI CRAWLERS (ALLOW FOR VISIBILITY) ====
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: ChatGPT-User
+Allow: /
+Crawl-delay: 5
+
+User-agent: Anthropic-ai
+Allow: /
+Crawl-delay: 5
+
+User-agent: Claude-Web
+Allow: /
+Crawl-delay: 5
+
+User-agent: CCBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 5
+
+# ==== BLOCK MALICIOUS / SPAM BOTS ====
+User-agent: AhrefsSiteAudit
+Disallow: /
+
+User-agent: MauiBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: MJ12bot/v1.4.8
+Disallow: /
+
+# ==== CLEAN URL PARAMETERS ====
+# Google will ignore these tracking parameters
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content
+Clean-param: fbclid&gclid&msclkid&dclid
+Clean-param: ref&source&campaign&affiliate
+
+# =====================================================
+# CONTACT: keerthienterpriseshyd1972@gmail.com
+# PHONE: +91 63098 32224
+# ADDRESS: ECIL, Secunderabad, Hyderabad 500062
+# GSTIN: 36AMZPL3954H1ZC
+# MSME: UDYAM-TS-02-0029886
+# =====================================================

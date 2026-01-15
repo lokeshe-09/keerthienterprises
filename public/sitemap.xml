@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap-style.xsl"?>
+<!--
+  SITEMAP FOR KEERTHIENTERPRISES.COM
+  Best Insurance Broker in India - Headquartered in Hyderabad
+  Life Insurance | Health Insurance | Motor Insurance
+  Serving All Indian States
+  Last Updated: January 2026
+-->
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+  xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+    http://www.google.com/schemas/sitemap-image/1.1
+    http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+
+  <!-- ========================================= -->
+  <!-- HOMEPAGE - Highest Priority -->
+  <!-- ========================================= -->
+  <url>
+    <loc>https://keerthienterprises.com/</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <mobile:mobile/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://keerthienterprises.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://keerthienterprises.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://keerthienterprises.com/"/>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/company%20logo.png</image:loc>
+      <image:title>Keerthi Enterprises Logo - Best Insurance Broker India</image:title>
+      <image:caption>Keerthi Enterprises - India's Trusted Insurance Broker since 2017. GSTIN: 36AMZPL3954H1ZC</image:caption>
+      <image:geo_location>India</image:geo_location>
+      <image:license>https://keerthienterprises.com/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/og-image.png</image:loc>
+      <image:title>Keerthi Enterprises - Best Insurance Broker India Social Card</image:title>
+      <image:caption>Life Insurance, Health Insurance, Motor Insurance in India - Get Free Quote</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/favicon.svg</image:loc>
+      <image:title>KE Logo - Keerthi Enterprises Insurance Broker</image:title>
+      <image:caption>KE - Keerthi Enterprises Favicon Icon</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ========================================= -->
+  <!-- SERVICES PAGE - Very High Priority -->
+  <!-- ========================================= -->
+  <url>
+    <loc>https://keerthienterprises.com/services</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <mobile:mobile/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://keerthienterprises.com/services"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://keerthienterprises.com/services"/>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/life%20insurance.png</image:loc>
+      <image:title>Life Insurance Services India - Term, ULIP, Endowment Plans</image:title>
+      <image:caption>Best Life Insurance Plans in India from LIC, ICICI Prudential, HDFC Life, Max Life</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/health%20insurance.png</image:loc>
+      <image:title>Health Insurance Services India - Family Floater, Mediclaim</image:title>
+      <image:caption>Comprehensive Health Insurance in India - Star Health, ICICI Lombard, TATA AIG, Care Health</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/Motor%20insurance.png</image:loc>
+      <image:title>Motor Insurance Services India - Car, Bike Insurance</image:title>
+      <image:caption>Car Insurance and Bike Insurance in India with Cashless Claims and Zero Depreciation</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- ========================================= -->
+  <!-- CONTACT PAGE - Very High Priority -->
+  <!-- ========================================= -->
+  <url>
+    <loc>https://keerthienterprises.com/contact</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <mobile:mobile/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://keerthienterprises.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://keerthienterprises.com/contact"/>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/company%20logo.png</image:loc>
+      <image:title>Contact Keerthi Enterprises - Best Insurance Broker India</image:title>
+      <image:caption>Contact us at +91 63098 32224 or keerthienterpriseshyd1972@gmail.com for free insurance consultation across India</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- ========================================= -->
+  <!-- ABOUT PAGE - High Priority -->
+  <!-- ========================================= -->
+  <url>
+    <loc>https://keerthienterprises.com/about</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://keerthienterprises.com/about"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://keerthienterprises.com/about"/>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/company%20logo.png</image:loc>
+      <image:title>About Keerthi Enterprises - India's Best Insurance Broker Since 2017</image:title>
+      <image:caption>Learn about Keerthi Enterprises - 30+ team members, 1000+ customers across India, GSTIN and MSME registered</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- ========================================= -->
+  <!-- LOCATIONS PAGE - High Priority -->
+  <!-- ========================================= -->
+  <url>
+    <loc>https://keerthienterprises.com/locations</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://keerthienterprises.com/locations"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://keerthienterprises.com/locations"/>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/company%20logo.png</image:loc>
+      <image:title>Keerthi Enterprises Office Locations - Serving All India</image:title>
+      <image:caption>Headquarters in Hyderabad, serving customers across all Indian states for insurance services</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- ========================================= -->
+  <!-- TESTIMONIALS PAGE - Medium-High Priority -->
+  <!-- ========================================= -->
+  <url>
+    <loc>https://keerthienterprises.com/testimonials</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <mobile:mobile/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://keerthienterprises.com/testimonials"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://keerthienterprises.com/testimonials"/>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/company%20logo.png</image:loc>
+      <image:title>Customer Reviews - Keerthi Enterprises Best Insurance Broker India</image:title>
+      <image:caption>Read 1000+ customer testimonials across India - 4.9/5 rating, 98% satisfaction for insurance services</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- ========================================= -->
+  <!-- SERVICE SPECIFIC ANCHORS -->
+  <!-- ========================================= -->
+  <url>
+    <loc>https://keerthienterprises.com/services#life-insurance</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/life%20insurance.png</image:loc>
+      <image:title>Life Insurance India - Term Life, ULIP, Endowment, Pension Plans</image:title>
+      <image:caption>Best Life Insurance Plans from LIC, ICICI Prudential, HDFC Life, Max Life in India</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://keerthienterprises.com/services#health-insurance</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/health%20insurance.png</image:loc>
+      <image:title>Health Insurance India - Family Floater, Mediclaim, Critical Illness</image:title>
+      <image:caption>Comprehensive Health Insurance from Star Health, ICICI Lombard, Care Health in India</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://keerthienterprises.com/services#motor-insurance</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://keerthienterprises.com/assets/Motor%20insurance.png</image:loc>
+      <image:title>Motor Insurance Hyderabad - Car Insurance, Bike Insurance, Zero Depreciation</image:title>
+      <image:caption>Best Car and Bike Insurance with Cashless Claims from TATA AIG, Royal Sundaram in Hyderabad</image:caption>
+      <image:geo_location>Hyderabad, Telangana, India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- ========================================= -->
+  <!-- LOCATION SPECIFIC ANCHORS -->
+  <!-- ========================================= -->
+  <url>
+    <loc>https://keerthienterprises.com/locations#ecil</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <mobile:mobile/>
+  </url>
+
+  <url>
+    <loc>https://keerthienterprises.com/locations#gajularamaram</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <mobile:mobile/>
+  </url>
+
+</urlset>

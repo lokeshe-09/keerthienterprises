@@ -1,0 +1,184 @@
+{
+  "name": "Keerthi Enterprises - Best Insurance Broker in Hyderabad | Life, Health & Motor Insurance",
+  "short_name": "Keerthi Enterprises",
+  "description": "Hyderabad's #1 trusted insurance broker since 2017. Expert guidance for Life Insurance, Health Insurance & Motor Insurance. 30+ team members, 1000+ happy customers. GSTIN & MSME registered. Offices at ECIL & Gajularamaram. Call +91 63098 32224 for free consultation.",
+  "start_url": "/?source=pwa&utm_source=pwa&utm_medium=homescreen",
+  "id": "keerthi-enterprises-insurance",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui", "browser"],
+  "background_color": "#ffffff",
+  "theme_color": "#0A66C2",
+  "orientation": "any",
+  "scope": "/",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "categories": [
+    "insurance",
+    "finance",
+    "business",
+    "lifestyle",
+    "utilities"
+  ],
+  "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "monochrome"
+    },
+    {
+      "src": "/assets/company%20logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/company%20logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Get Free Insurance Quote",
+      "short_name": "Get Quote",
+      "description": "Contact us for a free personalized insurance quote",
+      "url": "/contact?action=quote&utm_source=pwa_shortcut",
+      "icons": [
+        {
+          "src": "/favicon.svg",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Our Insurance Services",
+      "short_name": "Services",
+      "description": "View Life, Health & Motor Insurance services",
+      "url": "/services?utm_source=pwa_shortcut",
+      "icons": [
+        {
+          "src": "/favicon.svg",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Call Us Now",
+      "short_name": "Call",
+      "description": "Call +91 63098 32224 for instant assistance",
+      "url": "tel:+916309832224",
+      "icons": [
+        {
+          "src": "/favicon.svg",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Find Our Office",
+      "short_name": "Locations",
+      "description": "Visit our offices in ECIL or Gajularamaram",
+      "url": "/locations?utm_source=pwa_shortcut",
+      "icons": [
+        {
+          "src": "/favicon.svg",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/og-image.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Keerthi Enterprises - Best Insurance Broker in Hyderabad"
+    },
+    {
+      "src": "/assets/company%20logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Keerthi Enterprises Logo"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://keerthienterprises.com/manifest.json"
+    },
+    {
+      "platform": "windows",
+      "url": "https://keerthienterprises.com/"
+    }
+  ],
+  "handle_links": "preferred",
+  "launch_handler": {
+    "client_mode": ["focus-existing", "auto"]
+  },
+  "edge_side_panel": {
+    "preferred_width": 400
+  },
+  "share_target": {
+    "action": "/contact",
+    "method": "GET",
+    "params": {
+      "title": "subject",
+      "text": "message",
+      "url": "url"
+    }
+  },
+  "protocol_handlers": [
+    {
+      "protocol": "web+insurance",
+      "url": "/services?type=%s"
+    },
+    {
+      "protocol": "web+quote",
+      "url": "/contact?request=%s"
+    }
+  ],
+  "serviceworker": {
+    "src": "/sw.js",
+    "scope": "/",
+    "use_cache": true
+  },
+  "features": [
+    "cross_origin_isolated",
+    "payment",
+    "geolocation"
+  ],
+  "permissions_policy": {
+    "geolocation": ["self"],
+    "payment": ["self"]
+  },
+  "scope_extensions": [
+    {
+      "origin": "https://keerthienterprises.com"
+    },
+    {
+      "origin": "https://www.keerthienterprises.com"
+    }
+  ]
+}
